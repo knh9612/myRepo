@@ -6,6 +6,8 @@ import { PowerIcon } from '@heroicons/react/24/outline';
 export default function SideNav() {
   return (
     <div className="flex h-full flex-col px-3 py-4 md:px-2">
+
+      {/* <a> 태그와 같음. 근데 a태그를 쓰면 화면 밖으로 나가버려서 새로고침 도미. */}
       <Link
         className="mb-2 flex h-20 items-end justify-start rounded-md bg-blue-600 p-4 md:h-40"
         href="/"
