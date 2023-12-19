@@ -26,7 +26,7 @@ export default function Page() {
             <a href="https://nextjs.org/learn/" className="text-blue-500">
               Next.js Learn Course
             </a>
-            , 기술세미나는 언제하고 자바는 또 언제하냐;; 알고리즘은 언제하고 cs는 또 언제하냐 슈발!!!
+            , 
           </p>
           <Link
             href="/login"
